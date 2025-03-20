@@ -111,7 +111,7 @@ O manual de operação fornece instruções sobre como instalar, configurar e ut
 
 O código fonte do projeto está disponível no arquivo `Liquid_I2c.ino`. Ele inclui a lógica de funcionamento do sistema, a leitura dos sensores, a exibição dos dados no LCD e o armazenamento na EEPROM.
 
-### Trecho do Código Comentado
+### Código Comentado
 
 ```cpp
 // Inclusão das bibliotecas necessárias
@@ -679,6 +679,8 @@ void get_log() {
     }
   }
 }
+```
+
 ##🎮 Simulação
 O projeto pode ser simulado no Wokwi. O esquema de conexões e o código estão disponíveis no arquivo diagram.json.
 
