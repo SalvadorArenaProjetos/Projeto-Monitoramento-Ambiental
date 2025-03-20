@@ -681,13 +681,13 @@ void get_log() {
 }
 ```
 
-##🎮 Simulação
+## 🎮 Simulação
 O projeto pode ser simulado no Wokwi. O esquema de conexões e o código estão disponíveis no arquivo diagram.json.
 
-##🏁 Considerações Finais
+## 🏁 Considerações Finais
 Este projeto fornece uma solução robusta para monitoramento ambiental, com capacidade de alerta e registro histórico. Ele pode ser facilmente expandido para incluir mais sensores ou funcionalidades, como envio de dados para a nuvem ou integração com outros sistemas.
 
-##👥 Autores
+## 👥 Autores
 Aline Cristina Ribeiro de Barros – RA: 081230021
 Luis Gustavo de Oliveira Carneiro – RA: 081230029
 Roger Rocha da Silva – RA: 081230045
