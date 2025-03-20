@@ -688,10 +688,10 @@ O projeto pode ser simulado no Wokwi. O esquema de conexões e o código estão 
 Este projeto fornece uma solução robusta para monitoramento ambiental, com capacidade de alerta e registro histórico. Ele pode ser facilmente expandido para incluir mais sensores ou funcionalidades, como envio de dados para a nuvem ou integração com outros sistemas.
 
 ## 👥 Autores
-Aline Cristina Ribeiro de Barros – RA: 081230021
-Luis Gustavo de Oliveira Carneiro – RA: 081230029
-Roger Rocha da Silva – RA: 081230045
-João Victor Pereira Andrade – RA: 081230010
-Ezequiel Rodrigues Pereira – RA: 081230008
+- Aline Cristina Ribeiro de Barros – RA: 081230021
+- Luis Gustavo de Oliveira Carneiro – RA: 081230029
+- Roger Rocha da Silva – RA: 081230045
+- João Victor Pereira Andrade – RA: 081230010
+- Ezequiel Rodrigues Pereira – RA: 081230008
 
 Março, 2025.
