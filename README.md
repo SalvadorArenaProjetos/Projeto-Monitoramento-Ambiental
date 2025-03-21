@@ -97,6 +97,8 @@ Durante a inicialização, o sistema exibe uma mensagem no LCD e toca uma melodi
 
 ## 🔌 Esquema de Conexões
 
+![Esquema de Conexões](diagrama-eletrico.jpeg)
+
 O esquema de conexões define a interligação dos componentes ao Arduino Uno, assegurando a comunicação correta entre sensores, atuadores e módulos.
 
 - **I2C:** Utilizado pelo display LCD 16x2 e RTC DS1307 nos pinos A4 (SDA) e A5 (SCL).
